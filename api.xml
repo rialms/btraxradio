@@ -7,7 +7,7 @@
 	
 	</head>
 	<body>
-<outline type="link" text="FOORTI" URL="http://119.148.23.88:1021/;" key="local"/>
+<outline type="link" text="Local Radio" URL="http://opml.radiotime.com/Browse.ashx?c=local" key="local"/>
 <outline type="link" text="Music" URL="http://opml.radiotime.com/Browse.ashx?c=music" key="music"/>
 <outline type="link" text="Talk" URL="http://opml.radiotime.com/Browse.ashx?c=talk" key="talk"/>
 <outline type="link" text="Sports" URL="http://opml.radiotime.com/Browse.ashx?c=sports" key="sports"/>
